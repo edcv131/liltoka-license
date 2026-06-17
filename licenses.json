@@ -14,5 +14,10 @@
   "expires": "2026-12-31",
   "active": true,
   "hwid": ""
+},
+  "LILTOKA-112": {
+  "expires": "2026-12-31",
+  "active": true,
+  "hwid": ""
 }
 }
